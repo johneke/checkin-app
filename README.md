@@ -1,7 +1,9 @@
 # checkin-app
 
 Its an app where users of the app can simply check into their location (GPS coordinates).
+
 *** THIS IS AN ADDITIONAL COMMENT FROM JOHN ***
+
 Its a portion of an office app that
 1. that could be used to sign in by location ,
 2. Allows user apply for leave ,
